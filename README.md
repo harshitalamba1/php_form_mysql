@@ -1,4 +1,4 @@
-PHP Form with MySQL Integration
+<h2>PHP Form with MySQL Integration</h2>
 This project demonstrates a basic PHP form that interacts with a MySQL database.
 
 Features
